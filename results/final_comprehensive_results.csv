@@ -1,0 +1,331 @@
+eval_trace,seed,scheme,total_cost
+0,932825,Static Movement (tuned on pre-switch regime),20761.0
+0,932825,Static Distance (tuned on pre-switch regime),20761.0
+0,932825,Static Time (tuned on pre-switch regime),22121.0
+0,932825,"Static Movement (oracle, theoretical upper bound)",20761.0
+0,932825,"Static Distance (oracle, theoretical upper bound)",20761.0
+0,932825,"Static Time (oracle, theoretical upper bound)",22121.0
+0,932825,AM-RL-LU Analytic (proposed),20761.0
+0,932825,AM-RL-LU Q-learning (switching-trained),21549.0
+0,932825,AM-RL-LU Q-learning (stationary-trained),21549.0
+0,932825,AM-RL-LU DQN (switching-trained),21331.0
+0,932825,AM-RL-LU DQN (stationary-trained),21549.0
+1,1658424,Static Movement (tuned on pre-switch regime),9009.0
+1,1658424,Static Distance (tuned on pre-switch regime),13373.0
+1,1658424,Static Time (tuned on pre-switch regime),10459.0
+1,1658424,"Static Movement (oracle, theoretical upper bound)",9009.0
+1,1658424,"Static Distance (oracle, theoretical upper bound)",9009.0
+1,1658424,"Static Time (oracle, theoretical upper bound)",10459.0
+1,1658424,AM-RL-LU Analytic (proposed),9127.0
+1,1658424,AM-RL-LU Q-learning (switching-trained),9011.0
+1,1658424,AM-RL-LU Q-learning (stationary-trained),9011.0
+1,1658424,AM-RL-LU DQN (switching-trained),9697.0
+1,1658424,AM-RL-LU DQN (stationary-trained),9121.0
+2,1333254,Static Movement (tuned on pre-switch regime),13572.0
+2,1333254,Static Distance (tuned on pre-switch regime),13572.0
+2,1333254,Static Time (tuned on pre-switch regime),15562.0
+2,1333254,"Static Movement (oracle, theoretical upper bound)",13572.0
+2,1333254,"Static Distance (oracle, theoretical upper bound)",13572.0
+2,1333254,"Static Time (oracle, theoretical upper bound)",15562.0
+2,1333254,AM-RL-LU Analytic (proposed),13620.0
+2,1333254,AM-RL-LU Q-learning (switching-trained),13572.0
+2,1333254,AM-RL-LU Q-learning (stationary-trained),13576.0
+2,1333254,AM-RL-LU DQN (switching-trained),14958.0
+2,1333254,AM-RL-LU DQN (stationary-trained),13802.0
+3,1351959,Static Movement (tuned on pre-switch regime),12507.0
+3,1351959,Static Distance (tuned on pre-switch regime),12507.0
+3,1351959,Static Time (tuned on pre-switch regime),13357.0
+3,1351959,"Static Movement (oracle, theoretical upper bound)",12507.0
+3,1351959,"Static Distance (oracle, theoretical upper bound)",12507.0
+3,1351959,"Static Time (oracle, theoretical upper bound)",13357.0
+3,1351959,AM-RL-LU Analytic (proposed),12507.0
+3,1351959,AM-RL-LU Q-learning (switching-trained),12833.0
+3,1351959,AM-RL-LU Q-learning (stationary-trained),12833.0
+3,1351959,AM-RL-LU DQN (switching-trained),12697.0
+3,1351959,AM-RL-LU DQN (stationary-trained),12873.0
+4,1305512,Static Movement (tuned on pre-switch regime),8207.0
+4,1305512,Static Distance (tuned on pre-switch regime),8207.0
+4,1305512,Static Time (tuned on pre-switch regime),10137.0
+4,1305512,"Static Movement (oracle, theoretical upper bound)",8207.0
+4,1305512,"Static Distance (oracle, theoretical upper bound)",8207.0
+4,1305512,"Static Time (oracle, theoretical upper bound)",10137.0
+4,1305512,AM-RL-LU Analytic (proposed),8207.0
+4,1305512,AM-RL-LU Q-learning (switching-trained),8483.0
+4,1305512,AM-RL-LU Q-learning (stationary-trained),8483.0
+4,1305512,AM-RL-LU DQN (switching-trained),8635.0
+4,1305512,AM-RL-LU DQN (stationary-trained),8951.0
+5,965248,Static Movement (tuned on pre-switch regime),5931.0
+5,965248,Static Distance (tuned on pre-switch regime),5177.0
+5,965248,Static Time (tuned on pre-switch regime),7237.0
+5,965248,"Static Movement (oracle, theoretical upper bound)",5931.0
+5,965248,"Static Distance (oracle, theoretical upper bound)",5177.0
+5,965248,"Static Time (oracle, theoretical upper bound)",7237.0
+5,965248,AM-RL-LU Analytic (proposed),6135.0
+5,965248,AM-RL-LU Q-learning (switching-trained),6189.0
+5,965248,AM-RL-LU Q-learning (stationary-trained),5993.0
+5,965248,AM-RL-LU DQN (switching-trained),7447.0
+5,965248,AM-RL-LU DQN (stationary-trained),6183.0
+6,1228894,Static Movement (tuned on pre-switch regime),11598.0
+6,1228894,Static Distance (tuned on pre-switch regime),11208.0
+6,1228894,Static Time (tuned on pre-switch regime),12158.0
+6,1228894,"Static Movement (oracle, theoretical upper bound)",8264.0
+6,1228894,"Static Distance (oracle, theoretical upper bound)",8264.0
+6,1228894,"Static Time (oracle, theoretical upper bound)",9374.0
+6,1228894,AM-RL-LU Analytic (proposed),7670.0
+6,1228894,AM-RL-LU Q-learning (switching-trained),8266.0
+6,1228894,AM-RL-LU Q-learning (stationary-trained),8266.0
+6,1228894,AM-RL-LU DQN (switching-trained),8918.0
+6,1228894,AM-RL-LU DQN (stationary-trained),8140.0
+7,1639105,Static Movement (tuned on pre-switch regime),16726.0
+7,1639105,Static Distance (tuned on pre-switch regime),16726.0
+7,1639105,Static Time (tuned on pre-switch regime),17466.0
+7,1639105,"Static Movement (oracle, theoretical upper bound)",16726.0
+7,1639105,"Static Distance (oracle, theoretical upper bound)",16726.0
+7,1639105,"Static Time (oracle, theoretical upper bound)",17466.0
+7,1639105,AM-RL-LU Analytic (proposed),16730.0
+7,1639105,AM-RL-LU Q-learning (switching-trained),17682.0
+7,1639105,AM-RL-LU Q-learning (stationary-trained),17682.0
+7,1639105,AM-RL-LU DQN (switching-trained),18484.0
+7,1639105,AM-RL-LU DQN (stationary-trained),17438.0
+8,1595638,Static Movement (tuned on pre-switch regime),27067.0
+8,1595638,Static Distance (tuned on pre-switch regime),26337.0
+8,1595638,Static Time (tuned on pre-switch regime),28137.0
+8,1595638,"Static Movement (oracle, theoretical upper bound)",13131.0
+8,1595638,"Static Distance (oracle, theoretical upper bound)",13131.0
+8,1595638,"Static Time (oracle, theoretical upper bound)",15261.0
+8,1595638,AM-RL-LU Analytic (proposed),13773.0
+8,1595638,AM-RL-LU Q-learning (switching-trained),13091.0
+8,1595638,AM-RL-LU Q-learning (stationary-trained),13101.0
+8,1595638,AM-RL-LU DQN (switching-trained),13349.0
+8,1595638,AM-RL-LU DQN (stationary-trained),12959.0
+9,1019275,Static Movement (tuned on pre-switch regime),7648.0
+9,1019275,Static Distance (tuned on pre-switch regime),7648.0
+9,1019275,Static Time (tuned on pre-switch regime),9038.0
+9,1019275,"Static Movement (oracle, theoretical upper bound)",7648.0
+9,1019275,"Static Distance (oracle, theoretical upper bound)",7648.0
+9,1019275,"Static Time (oracle, theoretical upper bound)",9038.0
+9,1019275,AM-RL-LU Analytic (proposed),7044.0
+9,1019275,AM-RL-LU Q-learning (switching-trained),7948.0
+9,1019275,AM-RL-LU Q-learning (stationary-trained),7948.0
+9,1019275,AM-RL-LU DQN (switching-trained),8292.0
+9,1019275,AM-RL-LU DQN (stationary-trained),7722.0
+10,1075976,Static Movement (tuned on pre-switch regime),7604.0
+10,1075976,Static Distance (tuned on pre-switch regime),7604.0
+10,1075976,Static Time (tuned on pre-switch regime),8884.0
+10,1075976,"Static Movement (oracle, theoretical upper bound)",7604.0
+10,1075976,"Static Distance (oracle, theoretical upper bound)",7604.0
+10,1075976,"Static Time (oracle, theoretical upper bound)",8884.0
+10,1075976,AM-RL-LU Analytic (proposed),7036.0
+10,1075976,AM-RL-LU Q-learning (switching-trained),7954.0
+10,1075976,AM-RL-LU Q-learning (stationary-trained),7954.0
+10,1075976,AM-RL-LU DQN (switching-trained),7458.0
+10,1075976,AM-RL-LU DQN (stationary-trained),7672.0
+11,1522841,Static Movement (tuned on pre-switch regime),12651.0
+11,1522841,Static Distance (tuned on pre-switch regime),24437.0
+11,1522841,Static Time (tuned on pre-switch regime),26617.0
+11,1522841,"Static Movement (oracle, theoretical upper bound)",12651.0
+11,1522841,"Static Distance (oracle, theoretical upper bound)",12651.0
+11,1522841,"Static Time (oracle, theoretical upper bound)",14701.0
+11,1522841,AM-RL-LU Analytic (proposed),12835.0
+11,1522841,AM-RL-LU Q-learning (switching-trained),12861.0
+11,1522841,AM-RL-LU Q-learning (stationary-trained),12705.0
+11,1522841,AM-RL-LU DQN (switching-trained),14127.0
+11,1522841,AM-RL-LU DQN (stationary-trained),12775.0
+12,1028855,Static Movement (tuned on pre-switch regime),14348.0
+12,1028855,Static Distance (tuned on pre-switch regime),13928.0
+12,1028855,Static Time (tuned on pre-switch regime),14818.0
+12,1028855,"Static Movement (oracle, theoretical upper bound)",9414.0
+12,1028855,"Static Distance (oracle, theoretical upper bound)",9414.0
+12,1028855,"Static Time (oracle, theoretical upper bound)",10354.0
+12,1028855,AM-RL-LU Analytic (proposed),8980.0
+12,1028855,AM-RL-LU Q-learning (switching-trained),9386.0
+12,1028855,AM-RL-LU Q-learning (stationary-trained),9386.0
+12,1028855,AM-RL-LU DQN (switching-trained),9194.0
+12,1028855,AM-RL-LU DQN (stationary-trained),9122.0
+13,1413316,Static Movement (tuned on pre-switch regime),8576.0
+13,1413316,Static Distance (tuned on pre-switch regime),8576.0
+13,1413316,Static Time (tuned on pre-switch regime),9556.0
+13,1413316,"Static Movement (oracle, theoretical upper bound)",8576.0
+13,1413316,"Static Distance (oracle, theoretical upper bound)",8576.0
+13,1413316,"Static Time (oracle, theoretical upper bound)",9556.0
+13,1413316,AM-RL-LU Analytic (proposed),8576.0
+13,1413316,AM-RL-LU Q-learning (switching-trained),9154.0
+13,1413316,AM-RL-LU Q-learning (stationary-trained),8790.0
+13,1413316,AM-RL-LU DQN (switching-trained),9126.0
+13,1413316,AM-RL-LU DQN (stationary-trained),9120.0
+14,931365,Static Movement (tuned on pre-switch regime),5684.0
+14,931365,Static Distance (tuned on pre-switch regime),3784.0
+14,931365,Static Time (tuned on pre-switch regime),6534.0
+14,931365,"Static Movement (oracle, theoretical upper bound)",5612.0
+14,931365,"Static Distance (oracle, theoretical upper bound)",3784.0
+14,931365,"Static Time (oracle, theoretical upper bound)",6534.0
+14,931365,AM-RL-LU Analytic (proposed),4848.0
+14,931365,AM-RL-LU Q-learning (switching-trained),5662.0
+14,931365,AM-RL-LU Q-learning (stationary-trained),5662.0
+14,931365,AM-RL-LU DQN (switching-trained),6310.0
+14,931365,AM-RL-LU DQN (stationary-trained),5600.0
+15,1113192,Static Movement (tuned on pre-switch regime),12774.0
+15,1113192,Static Distance (tuned on pre-switch regime),12774.0
+15,1113192,Static Time (tuned on pre-switch regime),14274.0
+15,1113192,"Static Movement (oracle, theoretical upper bound)",12774.0
+15,1113192,"Static Distance (oracle, theoretical upper bound)",12774.0
+15,1113192,"Static Time (oracle, theoretical upper bound)",14274.0
+15,1113192,AM-RL-LU Analytic (proposed),12774.0
+15,1113192,AM-RL-LU Q-learning (switching-trained),13494.0
+15,1113192,AM-RL-LU Q-learning (stationary-trained),13494.0
+15,1113192,AM-RL-LU DQN (switching-trained),14526.0
+15,1113192,AM-RL-LU DQN (stationary-trained),13922.0
+16,1348913,Static Movement (tuned on pre-switch regime),8267.0
+16,1348913,Static Distance (tuned on pre-switch regime),8267.0
+16,1348913,Static Time (tuned on pre-switch regime),9507.0
+16,1348913,"Static Movement (oracle, theoretical upper bound)",8267.0
+16,1348913,"Static Distance (oracle, theoretical upper bound)",8267.0
+16,1348913,"Static Time (oracle, theoretical upper bound)",9507.0
+16,1348913,AM-RL-LU Analytic (proposed),7757.0
+16,1348913,AM-RL-LU Q-learning (switching-trained),8683.0
+16,1348913,AM-RL-LU Q-learning (stationary-trained),8683.0
+16,1348913,AM-RL-LU DQN (switching-trained),9565.0
+16,1348913,AM-RL-LU DQN (stationary-trained),8383.0
+17,1296939,Static Movement (tuned on pre-switch regime),14295.0
+17,1296939,Static Distance (tuned on pre-switch regime),14295.0
+17,1296939,Static Time (tuned on pre-switch regime),16045.0
+17,1296939,"Static Movement (oracle, theoretical upper bound)",14295.0
+17,1296939,"Static Distance (oracle, theoretical upper bound)",14295.0
+17,1296939,"Static Time (oracle, theoretical upper bound)",16045.0
+17,1296939,AM-RL-LU Analytic (proposed),14295.0
+17,1296939,AM-RL-LU Q-learning (switching-trained),15653.0
+17,1296939,AM-RL-LU Q-learning (stationary-trained),14919.0
+17,1296939,AM-RL-LU DQN (switching-trained),14971.0
+17,1296939,AM-RL-LU DQN (stationary-trained),14907.0
+18,1848821,Static Movement (tuned on pre-switch regime),11997.0
+18,1848821,Static Distance (tuned on pre-switch regime),11997.0
+18,1848821,Static Time (tuned on pre-switch regime),13077.0
+18,1848821,"Static Movement (oracle, theoretical upper bound)",11997.0
+18,1848821,"Static Distance (oracle, theoretical upper bound)",11997.0
+18,1848821,"Static Time (oracle, theoretical upper bound)",13077.0
+18,1848821,AM-RL-LU Analytic (proposed),11997.0
+18,1848821,AM-RL-LU Q-learning (switching-trained),12299.0
+18,1848821,AM-RL-LU Q-learning (stationary-trained),12299.0
+18,1848821,AM-RL-LU DQN (switching-trained),12247.0
+18,1848821,AM-RL-LU DQN (stationary-trained),12247.0
+19,1321564,Static Movement (tuned on pre-switch regime),9606.0
+19,1321564,Static Distance (tuned on pre-switch regime),13902.0
+19,1321564,Static Time (tuned on pre-switch regime),15692.0
+19,1321564,"Static Movement (oracle, theoretical upper bound)",9606.0
+19,1321564,"Static Distance (oracle, theoretical upper bound)",9606.0
+19,1321564,"Static Time (oracle, theoretical upper bound)",10676.0
+19,1321564,AM-RL-LU Analytic (proposed),9652.0
+19,1321564,AM-RL-LU Q-learning (switching-trained),9728.0
+19,1321564,AM-RL-LU Q-learning (stationary-trained),9680.0
+19,1321564,AM-RL-LU DQN (switching-trained),10878.0
+19,1321564,AM-RL-LU DQN (stationary-trained),9684.0
+20,1671046,Static Movement (tuned on pre-switch regime),6564.0
+20,1671046,Static Distance (tuned on pre-switch regime),8198.0
+20,1671046,Static Time (tuned on pre-switch regime),11018.0
+20,1671046,"Static Movement (oracle, theoretical upper bound)",6564.0
+20,1671046,"Static Distance (oracle, theoretical upper bound)",6564.0
+20,1671046,"Static Time (oracle, theoretical upper bound)",8954.0
+20,1671046,AM-RL-LU Analytic (proposed),6608.0
+20,1671046,AM-RL-LU Q-learning (switching-trained),6606.0
+20,1671046,AM-RL-LU Q-learning (stationary-trained),6604.0
+20,1671046,AM-RL-LU DQN (switching-trained),7082.0
+20,1671046,AM-RL-LU DQN (stationary-trained),6912.0
+21,1889554,Static Movement (tuned on pre-switch regime),7183.0
+21,1889554,Static Distance (tuned on pre-switch regime),8061.0
+21,1889554,Static Time (tuned on pre-switch regime),10011.0
+21,1889554,"Static Movement (oracle, theoretical upper bound)",7183.0
+21,1889554,"Static Distance (oracle, theoretical upper bound)",7183.0
+21,1889554,"Static Time (oracle, theoretical upper bound)",8583.0
+21,1889554,AM-RL-LU Analytic (proposed),7303.0
+21,1889554,AM-RL-LU Q-learning (switching-trained),7219.0
+21,1889554,AM-RL-LU Q-learning (stationary-trained),7221.0
+21,1889554,AM-RL-LU DQN (switching-trained),7621.0
+21,1889554,AM-RL-LU DQN (stationary-trained),7567.0
+22,1696461,Static Movement (tuned on pre-switch regime),15411.0
+22,1696461,Static Distance (tuned on pre-switch regime),14641.0
+22,1696461,Static Time (tuned on pre-switch regime),16281.0
+22,1696461,"Static Movement (oracle, theoretical upper bound)",9163.0
+22,1696461,"Static Distance (oracle, theoretical upper bound)",9163.0
+22,1696461,"Static Time (oracle, theoretical upper bound)",10893.0
+22,1696461,AM-RL-LU Analytic (proposed),9123.0
+22,1696461,AM-RL-LU Q-learning (switching-trained),9163.0
+22,1696461,AM-RL-LU Q-learning (stationary-trained),9163.0
+22,1696461,AM-RL-LU DQN (switching-trained),9313.0
+22,1696461,AM-RL-LU DQN (stationary-trained),9069.0
+23,1817333,Static Movement (tuned on pre-switch regime),20116.0
+23,1817333,Static Distance (tuned on pre-switch regime),20116.0
+23,1817333,Static Time (tuned on pre-switch regime),21596.0
+23,1817333,"Static Movement (oracle, theoretical upper bound)",20116.0
+23,1817333,"Static Distance (oracle, theoretical upper bound)",20116.0
+23,1817333,"Static Time (oracle, theoretical upper bound)",21596.0
+23,1817333,AM-RL-LU Analytic (proposed),20116.0
+23,1817333,AM-RL-LU Q-learning (switching-trained),20860.0
+23,1817333,AM-RL-LU Q-learning (stationary-trained),20860.0
+23,1817333,AM-RL-LU DQN (switching-trained),20666.0
+23,1817333,AM-RL-LU DQN (stationary-trained),20860.0
+24,1068413,Static Movement (tuned on pre-switch regime),14792.0
+24,1068413,Static Distance (tuned on pre-switch regime),14792.0
+24,1068413,Static Time (tuned on pre-switch regime),16122.0
+24,1068413,"Static Movement (oracle, theoretical upper bound)",14792.0
+24,1068413,"Static Distance (oracle, theoretical upper bound)",14792.0
+24,1068413,"Static Time (oracle, theoretical upper bound)",16122.0
+24,1068413,AM-RL-LU Analytic (proposed),14792.0
+24,1068413,AM-RL-LU Q-learning (switching-trained),15050.0
+24,1068413,AM-RL-LU Q-learning (stationary-trained),15050.0
+24,1068413,AM-RL-LU DQN (switching-trained),14952.0
+24,1068413,AM-RL-LU DQN (stationary-trained),15050.0
+25,1515203,Static Movement (tuned on pre-switch regime),7066.0
+25,1515203,Static Distance (tuned on pre-switch regime),7066.0
+25,1515203,Static Time (tuned on pre-switch regime),7876.0
+25,1515203,"Static Movement (oracle, theoretical upper bound)",7066.0
+25,1515203,"Static Distance (oracle, theoretical upper bound)",7066.0
+25,1515203,"Static Time (oracle, theoretical upper bound)",7876.0
+25,1515203,AM-RL-LU Analytic (proposed),7872.0
+25,1515203,AM-RL-LU Q-learning (switching-trained),7086.0
+25,1515203,AM-RL-LU Q-learning (stationary-trained),7086.0
+25,1515203,AM-RL-LU DQN (switching-trained),8864.0
+25,1515203,AM-RL-LU DQN (stationary-trained),7384.0
+26,1828796,Static Movement (tuned on pre-switch regime),8219.0
+26,1828796,Static Distance (tuned on pre-switch regime),8219.0
+26,1828796,Static Time (tuned on pre-switch regime),9409.0
+26,1828796,"Static Movement (oracle, theoretical upper bound)",8219.0
+26,1828796,"Static Distance (oracle, theoretical upper bound)",8219.0
+26,1828796,"Static Time (oracle, theoretical upper bound)",9409.0
+26,1828796,AM-RL-LU Analytic (proposed),8219.0
+26,1828796,AM-RL-LU Q-learning (switching-trained),8419.0
+26,1828796,AM-RL-LU Q-learning (stationary-trained),8419.0
+26,1828796,AM-RL-LU DQN (switching-trained),8589.0
+26,1828796,AM-RL-LU DQN (stationary-trained),8823.0
+27,1767832,Static Movement (tuned on pre-switch regime),6855.0
+27,1767832,Static Distance (tuned on pre-switch regime),6855.0
+27,1767832,Static Time (tuned on pre-switch regime),8345.0
+27,1767832,"Static Movement (oracle, theoretical upper bound)",6855.0
+27,1767832,"Static Distance (oracle, theoretical upper bound)",6855.0
+27,1767832,"Static Time (oracle, theoretical upper bound)",8345.0
+27,1767832,AM-RL-LU Analytic (proposed),6611.0
+27,1767832,AM-RL-LU Q-learning (switching-trained),6925.0
+27,1767832,AM-RL-LU Q-learning (stationary-trained),7295.0
+27,1767832,AM-RL-LU DQN (switching-trained),6919.0
+27,1767832,AM-RL-LU DQN (stationary-trained),7147.0
+28,1213432,Static Movement (tuned on pre-switch regime),7241.0
+28,1213432,Static Distance (tuned on pre-switch regime),7241.0
+28,1213432,Static Time (tuned on pre-switch regime),8891.0
+28,1213432,"Static Movement (oracle, theoretical upper bound)",7241.0
+28,1213432,"Static Distance (oracle, theoretical upper bound)",7241.0
+28,1213432,"Static Time (oracle, theoretical upper bound)",8891.0
+28,1213432,AM-RL-LU Analytic (proposed),7279.0
+28,1213432,AM-RL-LU Q-learning (switching-trained),7677.0
+28,1213432,AM-RL-LU Q-learning (stationary-trained),7515.0
+28,1213432,AM-RL-LU DQN (switching-trained),8027.0
+28,1213432,AM-RL-LU DQN (stationary-trained),7819.0
+29,1190618,Static Movement (tuned on pre-switch regime),6998.0
+29,1190618,Static Distance (tuned on pre-switch regime),6776.0
+29,1190618,Static Time (tuned on pre-switch regime),9536.0
+29,1190618,"Static Movement (oracle, theoretical upper bound)",6998.0
+29,1190618,"Static Distance (oracle, theoretical upper bound)",6776.0
+29,1190618,"Static Time (oracle, theoretical upper bound)",8408.0
+29,1190618,AM-RL-LU Analytic (proposed),7084.0
+29,1190618,AM-RL-LU Q-learning (switching-trained),7172.0
+29,1190618,AM-RL-LU Q-learning (stationary-trained),7010.0
+29,1190618,AM-RL-LU DQN (switching-trained),8236.0
+29,1190618,AM-RL-LU DQN (stationary-trained),7236.0
