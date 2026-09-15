@@ -125,7 +125,7 @@ class AdaptiveLUEnv:
         agent (see _observe). Default 0.0 preserves the original raw single-epoch estimate
         (used by the Q-learning/DQN agents, whose discretization/network were calibrated
         against that distribution). A smoothed estimate (state_smoothing=0.85) was found
-        essential for the analytic controller (Section 4.3) but was NOT beneficial for the
+        essential for the analytic controller (Section IV-C) but was NOT beneficial for the
         tabular/DQN agents as-is, since their existing calibration assumes the raw
         distribution -- re-smoothing without re-calibrating them made both noticeably worse."""
         self.trace = trace
